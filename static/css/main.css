@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 5%;
+}
+
+.card {
+  background-color: aliceblue;
+}
